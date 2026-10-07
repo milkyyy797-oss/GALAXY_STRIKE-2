@@ -1,6 +1,6 @@
 # 🚀 Galaxy Strike
 
-A fun space shooting game created as a Python project. 🎮
+A fun and interactive space shooting game created as a Python project. 🎮
 
 ## 🎮 About the Game
 
@@ -15,17 +15,9 @@ Galaxy Strike is a simple shooting game where the player controls a spaceship, f
 - 🏆 Score tracking
 - 🎮 Interactive gameplay
 
-## 🛠️ Technologies Used
+## 🛠️ Technology Used
 
 - Python
-- Pygame
-
-## ▶️ How to Run
-
-1. Install Python.
-2. Install Pygame:
-   `pip install pygame`
-3. Run `GALAXY_STRIKE.py`
 
 ## 📚 What I Learned
 
